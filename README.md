@@ -3,12 +3,11 @@ A Website for providing identity to all those unprivileged women who have the ta
 
 
 **Home Page -**
-"C:\Users\uttam\OneDrive\Desktop\HomePage.jpg.png"
-
-**Product Page -**
+<img width="945" alt="HomePage jpg" src="https://github.com/uttam-uk/xenon_stack/assets/103377366/9f65361e-266a-47d3-a7d2-eb63d75d312f">
 
 
-**Register Page -**
+**Contact Us -**
+<img width="935" alt="ContactUs jpg" src="https://github.com/uttam-uk/xenon_stack/assets/103377366/713aed0f-f0e9-4aa7-af0f-668d5f7565b2">
 
 
 
