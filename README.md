@@ -3,16 +3,12 @@ A Website for providing identity to all those unprivileged women who have the ta
 
 
 **Home Page -**
-
+"C:\Users\uttam\OneDrive\Desktop\HomePage.jpg.png"
 
 **Product Page -**
 
 
 **Register Page -**
-
-
-**To be a part of us -**
-
 
 
 
